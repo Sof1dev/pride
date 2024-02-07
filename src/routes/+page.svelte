@@ -1,2 +1,3 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<main class="h-screen w-screen flex justify-center items-center">
+	<h1 class="text-6xl text-center leading-snug">We love you no matter what 🏳‍🌈!</h1>
+</main>
